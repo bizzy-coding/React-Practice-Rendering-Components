@@ -1,14 +1,7 @@
-Project Title: 
 
-React Single Static Page
+# React Single Static Page
 
-
-Live Preview: 
-
-https://eloquent-dodol-cb98f2.netlify.app/
-
-
-Project Description: 
+👀 [LIVE PREVIEW](https://eloquent-dodol-cb98f2.netlify.app/) 
 
 A simple react project to practice:
 - rendering components
@@ -16,11 +9,18 @@ A simple react project to practice:
 - jsx syntax
 
 
-Credits: 
+## 🚀 About Me
 
-Bob Ziroll Course at https://scrimba.com/learn/learnreact
+I'm a self-taught front end developer with one years commercial experience. 
 
 
-Contact: 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bizzy-coding.github.io/Junior_Dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-bizzle/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bizzy_coding/)
 
-https://www.instagram.com/bizzy_coding/
+
+## Credits
+
+ - Adapted from the [Scrimba React Course](https://scrimba.com/learn/learnreact) taught by Bob Ziroll
+ 
