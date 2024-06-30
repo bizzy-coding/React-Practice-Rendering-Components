@@ -3,7 +3,7 @@
 
 👀 [LIVE PREVIEW](https://eloquent-dodol-cb98f2.netlify.app/) 
 
-![Screenshot](./assets/Project.png)
+![Screenshot](./src/assets/Project.png)
 
 A simple react project to practice:
 - rendering components
