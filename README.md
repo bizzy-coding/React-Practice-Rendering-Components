@@ -3,15 +3,21 @@
 
 👀 [LIVE PREVIEW](https://eloquent-dodol-cb98f2.netlify.app/) 
 
+![Screenshot](./assets/Project.png)
+
 A simple react project to practice:
 - rendering components
 - import & export functions
 - jsx syntax
 
+This project was created before learning about props or state, simply to practice the bare bones of a React project.
+
 
 ## 🚀 About Me
 
-I'm a self-taught front end developer with one years commercial experience. 
+Self-taught front-end developer, 3+ years commercial experience. 
+
+My background in digital design and marketing, coupled with a design degree, provides a unique perspective in crafting elegant and functional websites. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
 
 ## 🔗 Links
