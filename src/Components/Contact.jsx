@@ -8,7 +8,7 @@ export default function Contact() {
             <h3>Still have questions</h3>
             <p>Feel free to contact any time</p>
             </div>
-            <a class="contact-btn" href="mailto:bizzy_coding@gmail.com">Contact Us</a>
+            <a className="contact-btn" href="mailto:bizzy_coding@gmail.com">Contact Us</a>
            
 
         </section>
